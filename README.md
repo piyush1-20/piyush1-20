@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **gupta.piyush.er@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1_qE4M3lEgUwN92fgm8mF74PXUfv6tvjd/view?usp=sharing] 
+- 📄 Know about my experiences [https://drive.google.com/file/d/1cg0-8jbUH4pgsvQolRQF1Fc5VQHB66mB/view?usp=sharing] 
 - Portfolio https://piyush-portfolio-001.netlify.app/
 
 <h3 align="left">Connect with me:</h3>

@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Piyush Gupta</h1>
+<h1 align="center">Hi, I'm Piyush Gupta</h1>
 <h3 align="center">A passionate MERN Developer and programmer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piyush1-20&label=Profile%20views&color=0e75b6&style=flat" alt="piyush1-20" /> </p>
 
 - 🌱 I’m currently learning **MERN and Android Development.**
 
-- 💬 Ask me about **C/C++,HTML,CSS,JavaScript,React,NodeJS,Databases.**
+- 💬 Ask me about **C/C++,C#,HTML,CSS,JavaScript,TypeScript,Angular,React,NodeJS,MySQL**
 
 - 📫 How to reach me **gupta.piyush.er@gmail.com**
 
